@@ -18,7 +18,7 @@
   
   ### :man_technologist: About Me :
   
-  <p align="center">My name is Edgar, I'm a computer science engineer from Mexico <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="14"/> I'm currently finishing the college and working in cybersecurity <img src="https://cdn-icons-png.flaticon.com/512/1691/1691940.png" width="15"/></p>
+  <p align="center">My name is Edgar, I'm a computer science engineer from Mexico <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="14"/> I'm currently working in cybersecurity <img src="https://cdn-icons-png.flaticon.com/512/1691/1691940.png" width="15"/></p>
   
   
 - :telescope: I’m working as a Security Specialist actively working and learning about cloud security and blue team opeartions. :gem:
